@@ -19,7 +19,8 @@ Here where we can manage grades
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/126218968/230792767-5d7e123d-6405-44c6-8841-1ca1d098a2da.png">
 
 And here where we can update the profile
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/126218968/230793993-45128efe-cf11-4be9-bbda-48016c1fc191.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/126218968/230794071-9f72bea1-8c8c-49d1-9878-236d144b318d.png">
+
 
 
 
