@@ -1,4 +1,5 @@
 # School-Mangement
+
 An application for managing exams, grades, subjects, students and teachers. 
 This application is built with php and the datbase with MySQL.
 Now i'm gonna show you some screenshots : 
